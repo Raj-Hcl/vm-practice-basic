@@ -11,7 +11,7 @@ resource "google_compute_instance" "myvm" {
  network_interface {
    network = "default"
    access_config {
-      10.3.0.0/16
+      
    }
   }
 }
