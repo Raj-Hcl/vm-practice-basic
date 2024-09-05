@@ -10,6 +10,6 @@ variable "machine" {
   type = string
 }
 
-variabe "myimage" {
+variable "myimage" {
   type = string
 }
