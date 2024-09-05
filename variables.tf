@@ -1,4 +1,4 @@
-variable "instance" {
+variable "myinstance" {
   type = string
 }
 
@@ -6,7 +6,7 @@ variable  "zone" {
   type = string 
 }
 
-variable "machine_type" {
+variable "machine" {
   type = string
 }
 
