@@ -1,4 +1,4 @@
-variable "myinstance" {
+variable "myinstance1" {
   type = string
 }
 
